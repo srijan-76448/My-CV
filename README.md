@@ -1,10 +1,11 @@
 # Srijan Bhattacharyya
+
 <div align="center" style="display: flex; flex-direction: row;">
     <div style="flex: 1;">
         <img
             src = "pfp.png"
             alt = "PFP"
-            style = "background-color: #ffffff; border-radius: 50%; width: 50%;"
+            style = "background-color: #ffffff; border-radius: 50%; width: 200px;"
         />
     </div>
     <div style="flex: 2;" align="left">
