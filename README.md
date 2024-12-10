@@ -22,17 +22,6 @@ A dedicated and skilled 22-year-old B.Tech CSE student at MAKAUT, proficient in 
 * **Cource**: Bachelors of Technology in Computer Science Engineering
 * **Average SGPA**: 6.5+
 
-## Projects
-### ISHA (Interactive Smart Home Assistant)
-* **Description**: *ISHA* is a simple smart home assistant, with several features including *EAI (Emotional Artificial Intelligence)*, *Home Assistant features*.
-* **My Role**: *Lead Developer*, *AI Architect*
-* **My Responsibilities**: Conceptualized, designed, and implemented ISHA's core AI and machine learning skeleton, ensuring seamless integration with several other APIs, devices and sub-systems, providing a user-friendly experience for all the users.
-
-### R-TOP Linux
-* **My Role**: *System Architect*, *Linux Kernel Developer*, *Full-Stack OS Developer*
-* **Description**: A custom Linux-based operating system from scratch, incorporating core functionalities such as process management, memory management, and device drivers. This is basically a Linux Distro wich is capabele to run on any PC.
-<!-- Gained hands-on experience in kernel development, system programming, and low-level hardware interaction. -->
-
 ## Skills
 ### Languages and Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -65,6 +54,18 @@ A dedicated and skilled 22-year-old B.Tech CSE student at MAKAUT, proficient in 
 ![GNU](https://img.shields.io/badge/GNU-fff?style=plastic&logo=gnu&logoColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FFCC00?style=plastic&logo=linux&logoColor=2F3033)
 ![Unix](https://img.shields.io/badge/Unix-fff?style=plastic&logo=unix&logoColor=black)
+
+## Projects
+### ISHA (Interactive Smart Home Assistant)
+* **Description**: *ISHA* is a simple smart home assistant, with several features including *EAI (Emotional Artificial Intelligence)*, *Home Assistant features*.
+* **My Role**: *Lead Developer*, *AI Architect*
+* **My Responsibilities**: Conceptualized, designed, and implemented ISHA's core AI and machine learning skeleton, ensuring seamless integration with several other APIs, devices and sub-systems, providing a user-friendly experience for all the users.
+
+### R-TOP Linux
+* **My Role**: *System Architect*, *Linux Kernel Developer*, *Full-Stack OS Developer*
+* **Description**: A custom Linux-based operating system from scratch, incorporating core functionalities such as process management, memory management, and device drivers. This is basically a Linux Distro wich is capabele to run on any PC.
+<!-- Gained hands-on experience in kernel development, system programming, and low-level hardware interaction. -->
+
 
 ## Memberships and Positions
 * **IIC TMSL** (*2022-Present*): Tech Wing Member
