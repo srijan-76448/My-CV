@@ -1,22 +1,16 @@
 # Srijan Bhattacharyya
 
-<div align="center" style="display: flex; flex-direction: row;">
-    <div style="flex: 1;">
-        <img
-            src = "pfp.png"
-            alt = "PFP"
-            style = "background-color: #ffffff; border-radius: 50%; width: 200px;"
-        />
-    </div>
-    <div style="flex: 2;" align="left">
-        <h2>Contacts</h2>
-        <a href="mailto:srijan.76448@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
-        <a href="https://github.com/srijan-76448"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://www.linkedin.com/in/srijan76448/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://maps.app.goo.gl/b4eGEH8mBk1Cd837A"><img src="https://img.shields.io/badge/G-Map-1D1D1D?style=plastic&logo=gmap&logoColor=white" alt="G-Map" /></a>
-        <a href="https://srijan.76448.in"><img src="https://img.shields.io/badge/Website-1D1D1D?style=plastic&logo=website&logoColor=white" alt="Website" /></a>
-    </div>
-</div>
+<img
+    src = "pfp.png"
+    alt = "PFP"
+    style = "background-color: #ffffff; border-radius: 50%; width: 200px;"
+/>
+
+<a href="mailto:srijan.76448@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/srijan-76448"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/srijan76448/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://maps.app.goo.gl/b4eGEH8mBk1Cd837A"><img src="https://img.shields.io/badge/G-Map-1D1D1D?style=plastic&logo=gmap&logoColor=white" alt="G-Map" /></a>
+<a href="https://srijan.76448.in"><img src="https://img.shields.io/badge/Website-1D1D1D?style=plastic&logo=website&logoColor=white" alt="Website" /></a>
 
 ## Summary
 A dedicated and skilled 22-year-old B.Tech CSE student at MAKAUT, proficient in a wide range of programming languages, frameworks, and tools, including Python, C++, JavaScript, and various AI/ML libraries. Experienced in IoT projects and Linux-based systems, leveraging platforms like Raspberry Pi and Arduino. Keen to apply technical expertise in a corporate setting and eager to contribute to innovative projects.
