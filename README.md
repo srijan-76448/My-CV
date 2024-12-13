@@ -49,17 +49,17 @@ I'm Srijan Bhattacharyya, a highly motivated computer science engineering studen
 ![Unix](https://img.shields.io/badge/Unix-fff?style=plastic&logo=unix&logoColor=black)
 
 ## Projects
-### ISHA (Interactive Smart Home Assistant)
-- **Description**: *ISHA* is an innovative smart home assistant developed using Python. It integrates advanced features such as *Emotional Artificial Intelligence (EAI)* and a custom-built *LLM (RAI)* to provide a user-friendly and empathetic experience. Designed with a focus on inclusivity, ISHA aims to be particularly helpful for older adults, individuals with depression, and other vulnerable populations.
+### [ISHA (Interactive Smart Home Assistant)](https://github.com/srijan-76448/ISHA)
 - **My Role**: *Founding Developer*, *AIML Architect*, *Lead Developer*, *Software Engineer*
+- **Description**: *ISHA* is an innovative smart home assistant developed using Python. It integrates advanced features such as *Emotional Artificial Intelligence (EAI)* and a custom-built *LLM (RAI)* to provide a user-friendly and empathetic experience. Designed with a focus on inclusivity, ISHA aims to be particularly helpful for older adults, individuals with depression, and other vulnerable populations.
 
 ### R-Top Linux
-- **Description**: *R-Top Linux* is a custom-built 64-bit operating system developed from the ground up. Based on the *Linux from Scratch (LFS)* philosophy, it incorporates core functionalities such as *process management*, *memory management*, and *device drivers*. *R-Top Linux* features a versatile design, supporting both minimal (*i3wm*) and more resource-intensive (*KDE*) Graphical User Interfaces to cater to diverse hardware and user preferences.
 - **My Role**: *Founder & Lead Developer*, *OS Developer*, *OS Architect*, *UI/UX Designer for OS*, *Software Engineer*, *Kernel Developer*
+- **Description**: *R-Top Linux* is a custom-built 64-bit operating system developed from the ground up. Based on the *Linux from Scratch (LFS)* philosophy, it incorporates core functionalities such as *process management*, *memory management*, and *device drivers*. *R-Top Linux* features a versatile design, supporting both minimal (*i3wm*) and more resource-intensive (*KDE*) Graphical User Interfaces to cater to diverse hardware and user preferences.
 
-### DynamicCVGenerator
-- **Description**: This Python script, generates a professional resume in PDF format. It leverages JSON data files to define user information, styles, and templates. The script processes this data, generates Markdown, and then converts it to a polished PDF document using wkhtmltopdf.
+### [DynamicCVGenerator](https://github.com/srijan-76448/DynamicCVGenerator)
 - **My Role**: *Project Architect*, *Lead Developer*, *Data Architect*, *UI/UX Designer*, *System Integrator*, *Project Manager*, *Documentation Writer*
+- **Description**: This Python script, generates a professional resume in PDF format. It leverages JSON data files to define user information, styles, and templates. The script processes this data, generates Markdown, and then converts it to a polished PDF document using wkhtmltopdf.
 
 ## Memberships and Position
 - **IIC TMSL** (*2022-Present*): Tech Wing Member
